@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Capsule App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Notes :</string>
+    <string name="news_headline">News Headline:</string>
+    <string name="email_subject_line">Email Subject Line:</string>
+    <string name="news_data"> ➙ Stock Market Soars to New Heights as Tech Companies Report Record Profits </string>
+    <string name="email_data"> ➙ Important Update: Changes to Our Customer Service Hours</string>
+</resources>
